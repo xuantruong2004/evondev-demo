@@ -56,7 +56,7 @@ img {
 .title {
   font-weight: bold;
   font-size: 30px;
-  background-image: linear-gradient(to right bottom, red, blue);
+  background-image: linear-gradient(to right bottom, rgb(255, 0, 191), blue);
   color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
