@@ -51,7 +51,7 @@ img {
 .box-gardient {
   width: 100%;
   height: 280px;
-  background: linear-gradient(to right, #ff0000, blue);
+  background: linear-gradient(to right, #ff0000, rgb(51, 255, 0));
 }
 .title {
   font-weight: bold;
